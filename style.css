@@ -1,12 +1,12 @@
 html {
-
+      overflow-y:scroll;
     overflow-x: hidden;
     text-align: center;
-    background-color: rgb(110, 220, 220);
+    background-color: rgb(110, 110, 220);
    }
    
 body {
-      overflow-y:scroll;
+    overflow-x: hidden;
 }
 
 #container {
