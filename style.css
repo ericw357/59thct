@@ -1,9 +1,13 @@
-html, body {
-   overflow-y:scroll;
+html {
+
     overflow-x: hidden;
     text-align: center;
     background-color: rgb(220, 220, 220);
    }
+   
+body {
+      overflow-y:scroll;
+}
 
 #container {
    margin: 0 auto;
