@@ -1,7 +1,11 @@
-html { overflow-y:scroll; }
+html {
+   overflow-y:scroll;
+     overflow-x: hidden;
+   }
 
 body {
    text-align: center;
+     overflow-x: hidden;
    }
 
 #container {
