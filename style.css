@@ -13,5 +13,6 @@ body {
    margin: 0 auto;
    height: 100%;
    background-size: auto;
-   background-color: rgb(220, 220, 220)
+   background-color: rgb(220, 220, 220);
+   font-family: times new roman,times,serif;
    }
